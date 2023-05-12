@@ -1,3 +1,5 @@
+<?php
+
 function searchByEmail( $email = '' )
 {
 global $limit;
